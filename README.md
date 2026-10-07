@@ -4,7 +4,7 @@
 - 📍 Based in **India**
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/anshul-modi-967371378/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anshulmodi007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
